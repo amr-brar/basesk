@@ -11,8 +11,7 @@
     "success_url": "/",
     "formation": {
         "web": {
-            "quantity": 1,
-            "size": "free"
+            "quantity": 1
         }
     },
     "image": "heroku/php"
